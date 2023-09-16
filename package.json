@@ -21,8 +21,8 @@
         "web-vitals": "^2.1.4"
     },
     "engines": {
-        "node": "18.16.0",
-        "npm": "9.5.1"
+        "node": "18.17.1.0",
+        "npm": "10.1.0"
     },
     "scripts": {
         "start:front": "react-scripts start",
