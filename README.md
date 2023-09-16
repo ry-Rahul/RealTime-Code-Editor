@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+# Creating a unique user id we use
+the uuid module  and the uuid4() method 
+yarn add uuid
+
+
+# Add Toast Notifications
+we use yarn add react-hot-toast
+
+# Add Avatar Image
+we use yarn add react-avatar
+
+# Add Editor 
+we use yarn add codemirror 
+
+# Add Socket and Express
+yarn add express socket.io socket.io-client
+
+# Add nodeMon 
+yarn add -D nodemon 
